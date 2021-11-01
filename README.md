@@ -7,4 +7,9 @@
 * video games
 * study
 * eating
-![kids-basketball](https://user-images.githubusercontent.com/93545955/139724101-55ada62c-f2cc-443d-bccb-80a39ab0a856.jpg)
+
+
+<img src="https://user-images.githubusercontent.com/93545955/139724101-55ada62c-f2cc-443d-bccb-80a39ab0a856.jpg"
+  title="Life"
+  width="50%"
+  height="50%" />
