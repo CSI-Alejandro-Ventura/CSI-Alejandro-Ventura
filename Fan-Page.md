@@ -1,20 +1,21 @@
-<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Pestily </b></h1>
+<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Faze Rug </b></h1>
 
 <div align="center">
-    <img    src="https://yt3.ggpht.com/ytc/AKedOLRr6_Q8yPyhMO_t8BaPUFh7S-Thuwhe6j8_Gfha5w=s900-c-k-c0x00ffffff-no-rj"
-            title="Pestily"
-            width="20%"
-            height="20%" 
+    <img    src="https://user-images.githubusercontent.com/93545955/145083531-b77fc721-eaac-491e-aa33-ae312d73dddd.png"
+"
+            title="Faze Rug"
+            width="50%"
+            height="50%" 
             />
 </div>
 
-<h2 align="center" > Acting, streaming, sports or other personality Fan Page!</h2>
+<h2 align="center" > Content creator, gamer,partial owner of FaZe Clan!</h2>
 
 <br>
 
 <div align="center">
-    <img    src="https://www.dexerto.com/wp-content/uploads/2020/03/pestily-talks-fast-levelling-escape-from-tarkov-flea-market.png"
-            title="Pestily"
+    <img    src="https://answersafrica.com/wp-content/uploads/2019/08/Faze-Blaziken2.jpg"
+            title="Faze Rug"
             width="50%"
             height="50%" 
             />
@@ -23,12 +24,20 @@
 
 <br>
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-    Pestily is a popular streamer that plays my favorite game, <a href="https://www.escapefromtarkov.com/">Escape From Tarkov</a>. At the time that i wrote this page, he has over half a million subscribers on youtube and over a million on twitch. He has stood out through informative content, MLG skills and charitable livestream events. His content aims to be for viewers of all ages, even though EFT is a realistic FPS.
+    Faze Rug is a 25 year old youtuber with 20 million subscribers and a partial owner of FaZe. He joined Faze in 2012-present and the most subscribed member in Faze. He was born in San Diego, California and the younguest of of the family. His sibling Brandon is the oldest also a youtuber and his parents Ron and Sana Awadis.
+                                                                         
 </p>
-
+<div align="center">
+    <img    src="http://superbhub.com/wp-content/uploads/2018/06/FaZe-Rug-Net-Worth-Bio-Family-Dating..png"
+"
+            title="Faze Rug"
+            width="50%"
+            height="50%" 
+            />
 
 <br>
-
+<p style ="text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+    
 
 <table>
     <tr>
